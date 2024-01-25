@@ -47,7 +47,7 @@ function Header() {
       <a href="/" class="nav-link">
         
        
-        <img src="src/components/Header/Black & White Minimalist Business Logo.jpg" className="" alt="" />
+        <img src="https://app.logo.com/view/logo_493c4326-507d-4d0e-963a-5a4893ce3730" className="" alt="" />
         
       </a>
       </div>
