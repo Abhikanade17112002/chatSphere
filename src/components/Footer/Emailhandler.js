@@ -1,7 +1,7 @@
 
 
 const emailInput = document.querySelector("#newsletter1") ;
-// console.log(emailInput);
+console.log(emailInput);
 const sendEmail = (e) =>{
     e.preventDefault() ;
 
