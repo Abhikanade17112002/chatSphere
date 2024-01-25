@@ -13,7 +13,7 @@ const sendEmail = (e) =>{
         Subject : "This is the subject",
         Body : "And this is the body"
     }).then(
-      message => alert(" Enquiry Sent Succesfully To " + emailInput.value ) 
+      message => alert(" Enquiry Sent Succesfully To " +  e.target[0].value ) 
     );
 } ;
 
